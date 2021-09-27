@@ -1,0 +1,34 @@
+{
+    "guitars": [
+      {
+        "id" : 1,
+        "name" : "Yamaha F325D Acoustic Guitar",
+        "productInfo" : "The F325D acoustic guitar offers the quality, design and sound you'd expect from a Yamaha acoustic and puts it in an affordable price. This finely-crafted Yamaha acoustic guitar provides great sound and playing ease. The Yamaha F325 features a laminated spruce top, meranti back & sides, nato neck, rosewood fingerboard, rosewood bridge, and a high-gloss natural finish.",
+        "shippingInfo" : "Takes 5 business days to get delivered.",
+        "custReview" : "Average of 15 customer ratings is 4.5",
+        "photoName" : "product1.jpg",
+        "price" : "$199.99",
+        "shippingPrice" : "$29.99"
+      },
+      {
+        "id" : 2,
+        "name" : "Yamaha FG800 Acoustic Guitar",
+        "productInfo" : "The FG800 follows in the footsteps of Yamaha's best-selling FG700S Acoustic Guitar. Yamaha's FG series has consistently been the #1 selling acoustic guitar family of all time, and rightly so. They represent one of the best values in the music industry. Whether you're a beginning player, or just looking to add another guitar to your collection, the FG800 is a great way to get a high-quality, solid-top acoustic guitar at a very affordable price.",
+        "shippingInfo" : "Next day delivery",
+        "custReview" : "Average of 10 customer ratings is 4.8",
+        "photoName" : "product2.jpg",
+        "price" : "$299.99",
+        "shippingPrice" : "$29.99"
+      },
+      {
+        "id" : 3,
+        "name" : "YAMAHA FSX800C ACOUSTIC-ELECTRIC GUITAR",
+        "productInfo" : "The FSX800C acoustic-electric guitar offers all the great features of the FS800 with an added cutaway body, and an S.R.T pickup system complete with 3-band equalizer, adjustable mid-range, and a built-in chromatic tuner. Played acoustically or plugged in, the FSX800C sounds fantastic! Quality materials, outstanding construction, and stunning value make the FSX800C a great choice for any player.",
+        "shippingInfo" : "Takes 3 business days to get delivered.",
+        "custReview" : "Average of 15 customer ratings is 4.8",
+        "photoName" : "product3.jpg",
+        "price" : "$399.99",
+        "shippingPrice" : "$29.99"
+      }
+    ]
+  }

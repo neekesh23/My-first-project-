@@ -1,0 +1,72 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" type="text/css" href="guitarCenter1.css">
+</head>
+<body>
+    <div id="gmain">
+        <div id="gimg">
+            <img id="aimg" width="400px" height="350px">
+        </div>
+        <div id="ginfo">
+            <span id="pinfo">Product Info</span>
+            <div id="pinfodiv">
+                
+            </div> <br>
+            <span id="sinfo">Shipping Info</span>
+            <div id="sinfodiv">
+                
+            </div> <br>
+            <span id="custr">Customer Reviews</span>
+            <div id="custrdiv">
+                
+            </div> <br>
+            <span id="price">Price: </span> 
+            <br>
+            <span id="sprice">Shipping Price: </span>
+            <br> <br>
+        </div>
+    </div>
+    <br>
+    <div id="frmain">
+        <div id="frm">
+            <span id="fnames">First Name</span>
+            <input id="fnamei" type="text">
+            <span id="lnames">Last Name</span>
+            <input id="lnamei" type="text">
+            <br> <br>
+            <span id="adds">Address</span>
+            <input id="addi" type="text">
+            <br> <br>
+            <span id="ccs">Credit Card Number</span>
+            <input id="cci" type="text">
+            <br> <br>
+            <span id="expms">Expiration Month</span>
+            <input type="text" id="expmi">
+            <span id="expys">Expiration Year</span>
+            <input type="text" id="expyi">
+            <br> <br>
+            <span id="scs">Security Code</span>
+            <input type="text" id="sci">
+            <button type="button" id="frmchk" onclick="frmchk()">Check</button>
+            <button type="submit" id="sbmt" onclick="swp()">Confirm</button>
+        </div>
+        <div id="frmr">
+            <span id="fnamesr">First Name: </span> <input id="fnamei2" type="text"><br> <br>
+            <span id="lnamesr">Last Name: </span> <input id="lnamei2" type="text"><br> <br>
+            <span id="addsr">Address: </span> <input id="addi2" type="text"><br> <br>
+            <span id="ccsr">Credit Card Number: </span> <input id="cci2" type="text"><br> <br>
+            <span id="expmsr">Expiration Month: </span> <input type="text" id="expmi2"><br> <br>
+            <span id="expysr">Expiration Year: </span> <input type="text" id="expyi2"><br> <br>
+            <span id="scsr">Security Code: <input type="text" id="sci2"></span>
+        </div>
+        <div id="btns">
+            <button type="button" onclick="gobck()" id="btn11">Edit</button>
+            <button type="button" onclick="nxtpage()" id="btn12">Buy</button>
+        </div>
+    </div>
+    <script src="guitarCenter1.js"></script>
+</body>
+</html>

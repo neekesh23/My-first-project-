@@ -1,0 +1,50 @@
+#gmain {
+    border: 2px solid none;
+    width: 1200px;
+    height: 400px;
+}
+#gimg{
+    border: 2px solid none;
+    float: left;
+}
+
+#ginfo  {
+    background-color: rgb(165, 230, 230);
+    border: 2px solid none;
+    float: left;
+    width: 600px;
+    height: 400px;
+}
+
+#sinfo, #pinfo, #custr, #price, #sprice {
+    color: red;
+    font-size: xx-large;
+}
+
+#pinfodiv {
+    color: brown;
+    overflow: auto;
+    width: 100%;
+    height: 82px;
+    font-size: x-large;
+}
+
+#sinfodiv, #custrdiv {
+    color: brown;
+    width: 100%;
+    height: 30px;
+    font-size: x-large;
+}
+
+
+
+#cnfrm { 
+    color: red;
+    font-size: xx-large ;
+}
+
+#btn5 {
+    background-color: cornflowerblue;
+    color: blue;
+     font-size: x-large; 
+    }
